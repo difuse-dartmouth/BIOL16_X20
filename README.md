@@ -1,6 +1,6 @@
 # BIOL 16 DIFUSE Module 
 
-## Contributors: Quang Nguyen ('GR), Pierre Desvallons ('21), Professor Caitlin E. Hicks Pries (Professor of Biological Sciences), Professor Matthew P. Ayres (Professor of Biological Sciences) 
+## Contributors: Quang Nguyen ('GR), Pierre Desvallons ('21), Professor Caitlin E. Hicks Pries (Professor of Biological Sciences), Professor Matthew P. Ayres (Professor of Biological Sciences), Professor Scott Pauls (PI), Professor Laura Ray (PI), Professor Petra Bonfert-Taylor (PI), Professor Lorie Loeb (PI).
 
 ![DIFUSE Data Science Module.  Biology 16: Ecology. Professors Caitlin Pries & Matthew Ayres, Dartmouth College. Funded by NSF IUSE1917002](repository-assets/DIFUSE-BIOL-16.png "DIFUSE Data Science Module.  Biology 16: Ecology.  Professors Caitlin Pries & Matthew Ayres, Dartmouth College. Funded by NSF IUSE1917002")
 
