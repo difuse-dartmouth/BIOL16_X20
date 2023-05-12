@@ -1,4 +1,4 @@
-# BIOL 16 DIFUSE Module 
+# Ecology: Eddy Covariance DIFUSE Data Science Module 
 
 ## Contributors: Quang Nguyen ('GR), Pierre Desvallons ('21), Professor Caitlin E. Hicks Pries (Professor of Biological Sciences), Professor Matthew P. Ayres (Professor of Biological Sciences), Professor Scott Pauls (PI), Professor Laura Ray (PI), Professor Petra Bonfert-Taylor (PI), Professor Lorie Loeb (PI).
 
@@ -8,10 +8,6 @@ This module was developed through the DIFUSE project at Dartmouth College and fu
 
 |[<img src="repository-assets/download-all.png" alt="Download the entire module" align="center" style="width: 4in;" />](https://github.com/difuse-dartmouth/sociology-health-outcomes/archive/refs/heads/main.zip)| <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="width=2in" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /><br></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. |
 |---------|----------|
-
-# Biology 16: Ecology; Eddy Covariance Lab <a href="https://github.com/difuse-dartmouth/BIOL16_X20/archive/refs/heads/main.zip"><img src="https://github.com/difuse-dartmouth/.github/blob/ecc522189d093025100d24feef5fc134f592c677/profile/download_button.png" alt="Download the entire module" align="right" style="width: 0.25in;"></a>
-
-This repository contains all the components of the data science module for Dartmouth College's BIOL 16: A course you'd like to take.  Click the icon next to the course name above to download the entire module.
 
 ## Module Objective
 
