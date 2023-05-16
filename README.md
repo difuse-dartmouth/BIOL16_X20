@@ -38,8 +38,8 @@ The website application is also linked in the Lab Handout (see below)
 
 | Material |  Description | Linked course content | Files (Linked to Repository Contents) |
 |------------------|-----------------|----------------------------------------|--------------------------------------------------|
-| Lab Introduction | Introductory Slideshow for Lab Instructor; describes concepts covered in lab and what the module will cover.| Lab Presentation |[Eddy Covariance Lab Presentation](completed_module/logistics/Eddy Covariance Lab Presentation.pptx) |
-| Lab | The purpose of this lab therefore is to introduce you to the basics of EC, to explore raw measurement data to observe patterns of eddies across seasons and time of day, and to use relationships between ecosystem carbon fluxes and meteorological variables to estimate the annual carbon balance of an ecosystem.  | Lab Handout |[Eddy Covariance Lab Handout](completed_module/components/Eddy Covariance Lab Handout.docx) |
+| Lab Introduction | Introductory Slideshow for Lab Instructor; describes concepts covered in lab and what the module will cover.| Lab Presentation |![Eddy Covariance Lab Presentation](completed_module/logistics/Eddy Covariance Lab Presentation.pptx) |
+| Lab | The purpose of this lab therefore is to introduce you to the basics of EC, to explore raw measurement data to observe patterns of eddies across seasons and time of day, and to use relationships between ecosystem carbon fluxes and meteorological variables to estimate the annual carbon balance of an ecosystem.  | Lab Handout |![Eddy Covariance Lab Handout](completed_module/components/Eddy Covariance Lab Handout.docx) |
 
 
 ## Course information
